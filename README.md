@@ -1,2 +1,2 @@
 # Elzero-template-three
-Website Created using only  HTML and CSS 
+ Responsive Website Created using only  HTML and CSS 
